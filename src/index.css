@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;600;700&display=swap');
+
+body {
+  font-family: 'poppins', sans-serif;
+  background-color: rgb(235, 230, 230);
+}
+
+.removeCart:hover {
+  background-color: rgb(95, 95, 213);
+}
+
+.card {
+  box-shadow: 2px 2px 3px grey;
+  border-radius: 8px;
+
+}
+
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+/* .bg-dark{
+  /* opacity:0.5; */
+/* background-color: ; */
